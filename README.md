@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Tailor
 - 👀 I’m interested in ...learning new things 
-- 🌱 I’m currently learning ...python , js
+- 🌱 I’m currently learning ...Java
 - 🔭 I’m currently working on traveleasy website
 - 📫 How to reach me ...tailorrohit06@gmail.com
 
